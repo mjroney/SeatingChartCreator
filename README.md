@@ -1,3 +1,9 @@
+## My Intentions
+I'm a new coder, too new really to be messing with this level of work.
+I intend on using this as a template for a vacation scheduler. Managing
+a union shop, the vacation days are scheduled in a manner similar to the
+guidelines for the seating chart.
+
 ## Seating Chart Creator
 Seating Chart Creator is a Python desktop application that finds an 
 optimal set of seating charts for a multi-day event, subject
